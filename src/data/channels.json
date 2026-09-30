@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "1",
+    "name": "NHK総合",
+    "gid": "11",
+    "epg": "https://www.nhk.jp/timetable/"
+  },
+  {
+    "id": "2",
+    "name": "NHK Eテレ",
+    "gid": "11",
+    "epg": "https://www.nhk.jp/timetable/"
+  },
+  {
+    "id": "3",
+    "name": "フジテレビ",
+    "gid": "1",
+    "epg": "https://www.fujitv.co.jp/timetable/weekly/index.html"
+  },
+  {
+    "id": "4",
+    "name": "日本テレビ",
+    "gid": "1",
+    "epg": "https://www.ntv.co.jp/program/"
+  },
+  {
+    "id": "5",
+    "name": "TBS",
+    "gid": "1",
+    "epg": "https://www.tbs.co.jp/tv/"
+  },
+  {
+    "id": "6",
+    "name": "テレビ朝日",
+    "gid": "1",
+    "epg": "https://www.tv-asahi.co.jp/bangumi/"
+  },
+  {
+    "id": "7",
+    "name": "テレビ東京",
+    "gid": "1",
+    "epg": "https://www.tv-tokyo.co.jp/timetable/broad_tvtokyo/thisweek/"
+  },
+  {
+    "id": "8",
+    "name": "tvk",
+    "gid": "1",
+    "epg": "https://www.tvk-yokohama.com/bangumi/"
+  },
+  {
+    "id": "9",
+    "name": "NHK-BS1",
+    "gid": "9",
+    "epg": "http://www2.nhk.or.jp/hensei/program/wk.cgi?tz=all&ch=11"
+  },
+  {
+    "id": "10",
+    "name": "NHK-BS2",
+    "gid": "9",
+    "epg": "http://cgi4.nhk.or.jp/hensei/program/ch.cgi?ch=12"
+  },
+  {
+    "id": "11",
+    "name": "NHK-BShi",
+    "gid": "2",
+    "epg": "http://cgi4.nhk.or.jp/hensei/program/ch.cgi?ch=10"
+  },
+  {
+    "id": "12",
+    "name": "WOWOW",
+    "gid": "9",
+    "epg": "http://www.wowow.co.jp/pg/schedule/days/%date%/"
+  },
+  {
+    "id": "13",
+    "name": "チバテレビ",
+    "gid": "1",
+    "epg": "https://www.chiba-tv.com/timetable/weekly"
+  },
+  {
+    "id": "14",
+    "name": "テレ玉",
+    "gid": "1",
+    "epg": "https://www.teletama.jp/program/"
+  },
+  {
+    "id": "15",
+    "name": "BSテレ東",
+    "gid": "2",
+    "epg": "https://www.tv-tokyo.co.jp/timetable/broad_bstvtokyo/thisweek/"
+  },
+  {
+    "id": "16",
+    "name": "BS-TBS",
+    "gid": "2",
+    "epg": "https://bs.tbs.co.jp/epg_2k.html"
+  },
+  {
+    "id": "17",
+    "name": "BSフジ",
+    "gid": "2",
+    "epg": "http://www.bsfuji.tv/top/timetable/weekly.html"
+  },
+  {
+    "id": "18",
+    "name": "BS朝日",
+    "gid": "2",
+    "epg": "http://www.bs-asahi.co.jp/bangumi/"
+  },
+  {
+    "id": "19",
+    "name": "TOKYO MX",
+    "gid": "1",
+    "epg": "https://s.mxtv.jp/bangumi/"
+  },
+  {
+    "id": "20",
+    "name": "AT-X",
+    "gid": "6",
+    "epg": "https://www.at-x.com/program"
+  },
+  {
+    "id": "21",
+    "name": "アニマックス",
+    "gid": "6",
+    "epg": "https://www.animax.co.jp/programs/schedule_weekly"
+  },
+  {
+    "id": "22",
+    "name": "キッズステーション",
+    "gid": "6",
+    "epg": "https://www.kids-station.com/program/schedule"
+  },
+  {
+    "id": "23",
+    "name": "カートゥーンネットワーク",
+    "gid": "6",
+    "epg": "http://www.cartoon.co.jp/cn_schedules/"
+  },
+  {
+    "id": "24",
+    "name": "エンタメ～テレ",
+    "gid": "6",
+    "epg": "https://www.entermeitele.com/program/index.php"
+  },
+  {
+    "id": "25",
+    "name": "テレ朝チャンネル",
+    "gid": "6",
+    "epg": "http://www.tv-asahi.co.jp/dap/bangumi/ch/bangumi/jump/jump_pc.php?ch=1"
+  },
+  {
+    "id": "26",
+    "name": "チャンネルNECO",
+    "gid": "6",
+    "epg": "http://www.necoweb.com/neco/timetable/index.html"
+  },
+  {
+    "id": "27",
+    "name": "animate.tv",
+    "gid": "7",
+    "epg": "http://www.animate.tv/anime/"
+  },
+  {
+    "id": "28",
+    "name": "テレビ大阪",
+    "gid": "8",
+    "epg": "http://www.tv-osaka.co.jp/timetables/"
+  },
+  {
+    "id": "29",
+    "name": "ラジ＠",
+    "gid": "7",
+    "epg": "http://www.radiat.net/"
+  },
+  {
+    "id": "30",
+    "name": "ニッポン放送(1242)",
+    "gid": "12",
+    "epg": "http://www.1242.com/timetable/"
+  },
+  {
+    "id": "31",
+    "name": "スカパー181ch",
+    "gid": "6",
+    "epg": "http://www.ppvj.co.jp/"
+  },
+  {
+    "id": "32",
+    "name": "スカパー180ch",
+    "gid": "6",
+    "epg": "http://www.ppvj.co.jp/"
+  },
+  {
+    "id": "33",
+    "name": "スカパー160ch",
+    "gid": "6",
+    "epg": "http://www.ppvj.co.jp/"
+  },
+  {
+    "id": "34",
+    "name": "スカパー242ch",
+    "gid": "6",
+    "epg": "http://www.japanet.co.jp/shopping/tv/index.html"
+  },
+  {
+    "id": "35",
+    "name": "ラジオ大阪(1314)",
+    "gid": "15",
+    "epg": "http://www.obc1314.co.jp/timetable_all.html"
+  },
+  {
+    "id": "36",
+    "name": "KBS京都(1143)",
+    "gid": "15",
+    "epg": "http://www.kbs-kyoto.co.jp/now_on_air/radio.htm"
+  },
+  {
+    "id": "37",
+    "name": "RCC中国放送(1350)",
+    "gid": "16",
+    "epg": "http://www.1350.jp/program/"
+  },
+  {
+    "id": "38",
+    "name": "ABCラジオ(1008)",
+    "gid": "15",
+    "epg": "http://abc1008.com/rdpgm/frame.html"
+  },
+  {
+    "id": "39",
+    "name": "東映チャンネル",
+    "gid": "6",
+    "epg": "http://www.toeich.jp/program/week"
+  },
+  {
+    "id": "40",
+    "name": "日本映画専門チャンネル",
+    "gid": "6",
+    "epg": "http://www.nihon-eiga.com/timetable/daily/%date%.html"
+  },
+  {
+    "id": "41",
+    "name": "文化放送(1134)",
+    "gid": "12",
+    "epg": "https://www.joqr.co.jp/qr/dailyprogram/"
+  },
+  {
+    "id": "42",
+    "name": "ファミリー劇場",
+    "gid": "6",
+    "epg": "http://www.fami-geki.com/timetable/daily.php?date=%date%"
+  },
+  {
+    "id": "43",
+    "name": "フジテレビTWO",
+    "gid": "6",
+    "epg": "https://otn.fujitv.co.jp/schedule/two/index.html"
+  },
+  {
+    "id": "44",
+    "name": "スカパー182ch",
+    "gid": "6",
+    "epg": "http://www.ppvj.co.jp/"
+  },
+  {
+    "id": "45",
+    "name": "スカパー183ch",
+    "gid": "6",
+    "epg": "http://www.ppvj.co.jp/"
+  },
+  {
+    "id": "46",
+    "name": "mugimugi.com",
+    "gid": "7",
+    "epg": "http://mugimugi.com/"
+  },
+  {
+    "id": "47",
+    "name": "MONDOTV",
+    "gid": "6",
+    "epg": "http://www.mondotv.jp/program/weekly"
+  },
+  {
+    "id": "48",
+    "name": "MBS毎日放送",
+    "gid": "8",
+    "epg": "https://www.mbs.jp/timetable/"
+  },
+  {
+    "id": "49",
+    "name": "NHKラジオ第一",
+    "gid": "10",
+    "epg": "http://www2.nhk.or.jp/hensei/program/wk.cgi?tz=all&ch=05"
+  },
+  {
+    "id": "50",
+    "name": "BSQR 489",
+    "gid": "2",
+    "epg": "http://www.bsqr.net/time.html"
+  },
+  {
+    "id": "51",
+    "name": "LFX488",
+    "gid": "2",
+    "epg": "http://www.lfx.jp/bs/timetable/timetable.html"
+  },
+  {
+    "id": "52",
+    "name": "TBSチャンネル1",
+    "gid": "6",
+    "epg": "http://www.tbs.co.jp/tbs-ch/schedules/weekly/tch1/"
+  },
+  {
+    "id": "53",
+    "name": "TBSラジオ(954)",
+    "gid": "12",
+    "epg": "https://www.tbsradio.jp/todays954/"
+  },
+  {
+    "id": "54",
+    "name": "読売テレビ",
+    "gid": "8",
+    "epg": "http://www.ytv.co.jp/program-weekly/"
+  },
+  {
+    "id": "55",
+    "name": "YFTV",
+    "gid": "6",
+    "epg": "http://www3.fandango.co.jp/ytasp/yftv/timetable/index.asp"
+  },
+  {
+    "id": "56",
+    "name": "アニマルプラネット",
+    "gid": "6",
+    "epg": "http://www.animal-planet.jp/program/"
+  },
+  {
+    "id": "57",
+    "name": "その他のインターネット",
+    "gid": "7",
+    "epg": ""
+  },
+  {
+    "id": "58",
+    "name": "サンテレビジョン",
+    "gid": "8",
+    "epg": "http://www.sun-tv.co.jp/i_prog/"
+  },
+  {
+    "id": "59",
+    "name": "テレビ愛知",
+    "gid": "13",
+    "epg": "https://tv-aichi.co.jp/epg/week0.html"
+  },
+  {
+    "id": "60",
+    "name": "テレビ新広島",
+    "gid": "14",
+    "epg": "http://www.tss-tv.co.jp/jp/timetable/"
+  },
+  {
+    "id": "61",
+    "name": "ディスカバリーチャンネル",
+    "gid": "6",
+    "epg": "http://japan.discovery.com/schedules/index.php"
+  },
+  {
+    "id": "62",
+    "name": "スカパー101ch",
+    "gid": "6",
+    "epg": ""
+  },
+  {
+    "id": "63",
+    "name": "スカパー",
+    "gid": "6",
+    "epg": "http://www.skyperfectv.co.jp/"
+  },
+  {
+    "id": "64",
+    "name": "NHK Eテレ2",
+    "gid": "11",
+    "epg": "https://www.nhk.jp/timetable/"
+  },
+  {
+    "id": "65",
+    "name": "NHK Eテレ3",
+    "gid": "11",
+    "epg": "https://www.nhk.jp/timetable/"
+  },
+  {
+    "id": "66",
+    "name": "KBS京都",
+    "gid": "8",
+    "epg": "https://www.kbs-kyoto.co.jp/program/now_on_air/tv.htm"
+  },
+  {
+    "id": "67",
+    "name": "ABCテレビ",
+    "gid": "8",
+    "epg": "https://www.asahi.co.jp/tvprogram/"
+  },
+  {
+    "id": "68",
+    "name": "ch.280 ActOnTV(by recruit)",
+    "gid": "6",
+    "epg": ""
+  },
+  {
+    "id": "69",
+    "name": "なし",
+    "gid": "17",
+    "epg": ""
+  },
+  {
+    "id": "70",
+    "name": "関西テレビ",
+    "gid": "8",
+    "epg": "https://www.ktv.jp/timetable/index.html"
+  },
+  {
+    "id": "71",
+    "name": "BS日テレ",
+    "gid": "2",
+    "epg": "http://www.bs4.jp/programschedule/"
+  },
+  {
+    "id": "72",
+    "name": "群馬テレビ",
+    "gid": "1",
+    "epg": "https://www.gtv.co.jp/program/schedule.html"
+  },
+  {
+    "id": "73",
+    "name": "LFX BB",
+    "gid": "7",
+    "epg": "http://www.lfx.jp/"
+  },
+  {
+    "id": "74",
+    "name": "奈良テレビ",
+    "gid": "8",
+    "epg": "http://www.naratv.co.jp/program/"
+  },
+  {
+    "id": "75",
+    "name": "GyaO!",
+    "gid": "7",
+    "epg": "http://gyao.yahoo.co.jp/ct/anime/"
+  },
+  {
+    "id": "76",
+    "name": "WOWOWシネマ",
+    "gid": "2",
+    "epg": "https://www.wowow.co.jp/schedule/"
+  },
+  {
+    "id": "77",
+    "name": "東海テレビ",
+    "gid": "13",
+    "epg": "https://www.tokai-tv.com/bangumihyo/"
+  },
+  {
+    "id": "78",
+    "name": "ShowTime",
+    "gid": "7",
+    "epg": "http://www.showtime.jp/genre/animation/"
+  },
+  {
+    "id": "79",
+    "name": "CBCテレビ",
+    "gid": "13",
+    "epg": "https://hicbc.com/etc/epg/"
+  },
+  {
+    "id": "80",
+    "name": "中京テレビ",
+    "gid": "13",
+    "epg": "http://www.ctv.co.jp/bangumi/"
+  },
+  {
+    "id": "81",
+    "name": "メ～テレ",
+    "gid": "13",
+    "epg": "https://www.nagoyatv.com/timetable/week.html"
+  },
+  {
+    "id": "82",
+    "name": "三重テレビ",
+    "gid": "13",
+    "epg": "https://mietv.com/weekly_schedule/"
+  },
+  {
+    "id": "83",
+    "name": "ぎふチャン",
+    "gid": "13",
+    "epg": "http://www.zf-web.com/tv/program/"
+  },
+  {
+    "id": "84",
+    "name": "sky・A",
+    "gid": "6",
+    "epg": "http://www.sky-a.co.jp/global/monthly.html"
+  },
+  {
+    "id": "85",
+    "name": "Yahoo!動画",
+    "gid": "7",
+    "epg": "http://streaming.yahoo.co.jp/"
+  },
+  {
+    "id": "86",
+    "name": "テレビ和歌山",
+    "gid": "8",
+    "epg": "http://www.tv-wakayama.co.jp/program/index.php"
+  },
+  {
+    "id": "87",
+    "name": "ＢＢＣびわ湖放送",
+    "gid": "8",
+    "epg": "http://www.bbc-tv.co.jp/timetable/"
+  },
+  {
+    "id": "88",
+    "name": "HTB北海道テレビ",
+    "gid": "18",
+    "epg": "https://www.htb.co.jp/timetable/"
+  },
+  {
+    "id": "89",
+    "name": "HBC北海道放送",
+    "gid": "18",
+    "epg": "https://www.hbc.co.jp/tv/program/"
+  },
+  {
+    "id": "90",
+    "name": "TVhテレビ北海道",
+    "gid": "18",
+    "epg": "https://www.tv-hokkaido.co.jp/program/"
+  },
+  {
+    "id": "91",
+    "name": "UHB北海道文化放送",
+    "gid": "18",
+    "epg": "https://uhb.jp/timetable/"
+  },
+  {
+    "id": "92",
+    "name": "STV札幌テレビ",
+    "gid": "18",
+    "epg": "https://www.stv.jp/tv/timetable/index.html"
+  },
+  {
+    "id": "93",
+    "name": "TVQ九州放送",
+    "gid": "19",
+    "epg": "https://www.tvq.co.jp/tv/weekly/"
+  },
+  {
+    "id": "94",
+    "name": "RKB毎日放送",
+    "gid": "19",
+    "epg": "https://rkb.jp/program/"
+  },
+  {
+    "id": "95",
+    "name": "テレビせとうち",
+    "gid": "14",
+    "epg": "https://www.webtsc.com/timetable/"
+  },
+  {
+    "id": "96",
+    "name": "福岡放送",
+    "gid": "19",
+    "epg": "https://www.fbs.co.jp/program/timetable/"
+  },
+  {
+    "id": "97",
+    "name": "WOWOWライブ",
+    "gid": "2",
+    "epg": "https://www.wowow.co.jp/schedule/"
+  },
+  {
+    "id": "98",
+    "name": "東北放送",
+    "gid": "20",
+    "epg": "http://skip.tbc-sendai.co.jp/tpg/week_view.php"
+  },
+  {
+    "id": "99",
+    "name": "広島ホームテレビ",
+    "gid": "14",
+    "epg": "https://www.home-tv.co.jp/programtable/"
+  },
+  {
+    "id": "100",
+    "name": "とちぎテレビ",
+    "gid": "1",
+    "epg": "https://www.tochigi-tv.jp/programschedule/"
+  },
+  {
+    "id": "101",
+    "name": "BIGLOBEストリーム",
+    "gid": "7",
+    "epg": "http://broadband.biglobe.ne.jp/sitemap/"
+  },
+  {
+    "id": "102",
+    "name": "中国放送",
+    "gid": "14",
+    "epg": "http://www.rcc-tv.jp/program/"
+  },
+  {
+    "id": "103",
+    "name": "広島テレビ",
+    "gid": "14",
+    "epg": "https://www.htv.jp/bangumi/"
+  },
+  {
+    "id": "104",
+    "name": "岡山放送",
+    "gid": "14",
+    "epg": "http://www.ohk.co.jp/tvpg/this_week.php"
+  },
+  {
+    "id": "105",
+    "name": "山陽放送",
+    "gid": "14",
+    "epg": "http://www.rsk.co.jp/tv/program/"
+  },
+  {
+    "id": "106",
+    "name": "NHK-FM",
+    "gid": "10",
+    "epg": "http://www2.nhk.or.jp/hensei/program/wk.cgi?tz=all&ch=07"
+  },
+  {
+    "id": "107",
+    "name": "バンダイチャンネル",
+    "gid": "7",
+    "epg": "http://www.b-ch.com/ttl/search_new.php"
+  },
+  {
+    "id": "108",
+    "name": "フレッツ・スクウェア（NTT東日本）",
+    "gid": "7",
+    "epg": "http://flets-square-guide.com/"
+  },
+  {
+    "id": "109",
+    "name": "フジテレビONE",
+    "gid": "6",
+    "epg": "https://otn.fujitv.co.jp/schedule/one/index.html"
+  },
+  {
+    "id": "110",
+    "name": "バンダイチャンネルキッズ",
+    "gid": "7",
+    "epg": "http://kids.b-ch.com/"
+  },
+  {
+    "id": "111",
+    "name": "テレビ信州",
+    "gid": "21",
+    "epg": "https://www.tsb.jp/program/weekly/First.html"
+  },
+  {
+    "id": "112",
+    "name": "330ch WOWOW",
+    "gid": "6",
+    "epg": ""
+  },
+  {
+    "id": "113",
+    "name": "SBSテレビ",
+    "gid": "13",
+    "epg": "http://www.at-s.com/sbstv/timetable/"
+  },
+  {
+    "id": "114",
+    "name": "南海放送",
+    "gid": "22",
+    "epg": "https://www.rnb.co.jp/tv_program/"
+  },
+  {
+    "id": "115",
+    "name": "テレビ愛媛",
+    "gid": "22",
+    "epg": "http://www.ebc.co.jp/bangumi/timetable/"
+  },
+  {
+    "id": "116",
+    "name": "あいテレビ",
+    "gid": "22",
+    "epg": "http://www.itv6.jp/program/?page=weekly"
+  },
+  {
+    "id": "117",
+    "name": "愛媛朝日テレビ",
+    "gid": "22",
+    "epg": "http://eat.jp/program_auto/pc_prg1.htm"
+  },
+  {
+    "id": "118",
+    "name": "i-revo",
+    "gid": "7",
+    "epg": "http://movie.i-revo.jp/ice/regular/streaming/anime/"
+  },
+  {
+    "id": "119",
+    "name": "日テレプラス",
+    "gid": "6",
+    "epg": "http://www.nitteleplus.com/program/index.html"
+  },
+  {
+    "id": "120",
+    "name": "@nifty",
+    "gid": "7",
+    "epg": "http://anime.nifty.com/"
+  },
+  {
+    "id": "121",
+    "name": "ビクトリーチャンネル",
+    "gid": "6",
+    "epg": "http://www.victory-ch.tv/timetable/"
+  },
+  {
+    "id": "122",
+    "name": "gooアニメ",
+    "gid": "7",
+    "epg": "http://anime.goo.ne.jp/"
+  },
+  {
+    "id": "123",
+    "name": "瀬戸内海放送",
+    "gid": "22",
+    "epg": "http://www.ksb.co.jp/program_EPG/"
+  },
+  {
+    "id": "124",
+    "name": "西日本放送",
+    "gid": "22",
+    "epg": "http://www.rnc.co.jp/tv/tbl/tbl_tv.asp"
+  },
+  {
+    "id": "125",
+    "name": "テレビ山口",
+    "gid": "14",
+    "epg": "https://tys.co.jp/programschedule/"
+  },
+  {
+    "id": "126",
+    "name": "山口放送",
+    "gid": "14",
+    "epg": "https://kry.co.jp/tv/timetable.php"
+  },
+  {
+    "id": "127",
+    "name": "山口朝日放送",
+    "gid": "14",
+    "epg": "https://www.yab.co.jp/weeklyprogram"
+  },
+  {
+    "id": "128",
+    "name": "BS11イレブン",
+    "gid": "2",
+    "epg": "https://www.bs11.jp/program/"
+  },
+  {
+    "id": "129",
+    "name": "BS12トゥエルビ",
+    "gid": "2",
+    "epg": "https://www.twellv.co.jp/program_schedule/"
+  },
+  {
+    "id": "130",
+    "name": "角川アニメチャンネル",
+    "gid": "7",
+    "epg": "http://jp.youtube.com/user/KADOKAWAanime"
+  },
+  {
+    "id": "131",
+    "name": "フジテレビNEXT",
+    "gid": "6",
+    "epg": "https://otn.fujitv.co.jp/schedule/next/index.html"
+  },
+  {
+    "id": "132",
+    "name": "ニコニコアニメチャンネル",
+    "gid": "7",
+    "epg": "http://anime-ch.nicovideo.jp/"
+  },
+  {
+    "id": "133",
+    "name": "ラジオ関西(558)",
+    "gid": "15",
+    "epg": "http://jocr.jp/timetable/index.html"
+  },
+  {
+    "id": "134",
+    "name": "MBSラジオ(1179)",
+    "gid": "15",
+    "epg": "http://www.mbs1179.com/time/"
+  },
+  {
+    "id": "135",
+    "name": "PLAYSTATION Store",
+    "gid": "17",
+    "epg": "http://www.jp.playstation.com/store/"
+  },
+  {
+    "id": "136",
+    "name": "ニコニコ生放送",
+    "gid": "7",
+    "epg": "http://live.nicovideo.jp/timetable"
+  },
+  {
+    "id": "137",
+    "name": "スカパー162ch",
+    "gid": "6",
+    "epg": "http://www.sukachan.com/"
+  },
+  {
+    "id": "138",
+    "name": "九州朝日放送",
+    "gid": "19",
+    "epg": "https://kbc.co.jp/tv-timetable/"
+  },
+  {
+    "id": "139",
+    "name": "東海ラジオ(1332)",
+    "gid": "24",
+    "epg": "http://www.tokairadio.co.jp/timetable/index.html"
+  },
+  {
+    "id": "140",
+    "name": "南海放送(1116)",
+    "gid": "16",
+    "epg": "http://ncs2.rnb.co.jp/rd_program/index0.php"
+  },
+  {
+    "id": "141",
+    "name": "テレビ静岡",
+    "gid": "13",
+    "epg": "http://www.sut-tv.com/time_table/main.html"
+  },
+  {
+    "id": "142",
+    "name": "熊本放送",
+    "gid": "19",
+    "epg": "http://www.rkk.co.jp/cgi-bin/tv/w_pgm.cgi"
+  },
+  {
+    "id": "143",
+    "name": "アニメワン",
+    "gid": "7",
+    "epg": "http://anime.biglobe.ne.jp/title/list"
+  },
+  {
+    "id": "144",
+    "name": "テレビ西日本",
+    "gid": "19",
+    "epg": "https://www.tnc.co.jp/timetable/index"
+  },
+  {
+    "id": "145",
+    "name": "サガテレビ",
+    "gid": "19",
+    "epg": "http://www.sagatv.co.jp/program/"
+  },
+  {
+    "id": "146",
+    "name": "北陸朝日放送",
+    "gid": "25",
+    "epg": "http://www.hab.co.jp/table/weekly/"
+  },
+  {
+    "id": "147",
+    "name": "北陸放送",
+    "gid": "25",
+    "epg": "http://www.mro.co.jp/tv-time-table/"
+  },
+  {
+    "id": "148",
+    "name": "福井放送",
+    "gid": "25",
+    "epg": "http://www2.fbc.jp/timetable/tv.html"
+  },
+  {
+    "id": "149",
+    "name": "福井テレビ",
+    "gid": "25",
+    "epg": "http://www.fukui-tv.co.jp/program/week/week_main.php"
+  },
+  {
+    "id": "150",
+    "name": "スカチャンHD800",
+    "gid": "6",
+    "epg": "http://www.e2sptv.jp/prog_navi/e800.html"
+  },
+  {
+    "id": "151",
+    "name": "MUSIC ON! TV",
+    "gid": "6",
+    "epg": "http://www.m-on.jp/program/timetable/"
+  },
+  {
+    "id": "152",
+    "name": "ムービープラス",
+    "gid": "6",
+    "epg": "http://www.movieplus.jp/timetable/"
+  },
+  {
+    "id": "153",
+    "name": "ホームドラマチャンネル",
+    "gid": "6",
+    "epg": "http://www.homedrama-ch.com/hdc/lineup?action=viewLineupList"
+  },
+  {
+    "id": "154",
+    "name": "だいいちテレビ",
+    "gid": "13",
+    "epg": "https://www.tv-sdt.co.jp/timetable/"
+  },
+  {
+    "id": "155",
+    "name": "静岡朝日テレビ",
+    "gid": "13",
+    "epg": "http://www.satv.co.jp/0200weekly/"
+  },
+  {
+    "id": "156",
+    "name": "超!A&G+",
+    "gid": "7",
+    "epg": "https://www.joqr.co.jp/qr/agdailyprogram/?date=%date%"
+  },
+  {
+    "id": "157",
+    "name": "アニメNewtypeチャンネル",
+    "gid": "7",
+    "epg": "http://anime.webnt.jp/"
+  },
+  {
+    "id": "158",
+    "name": "放送大学CSテレビ",
+    "gid": "6",
+    "epg": "http://www.u-air.ac.jp/cgi-bin/bangumi/viewProgram.cgi?today=%date%&media=TV"
+  },
+  {
+    "id": "159",
+    "name": "放送大学CSラジオ",
+    "gid": "6",
+    "epg": "http://www.u-air.ac.jp/cgi-bin/bangumi/viewProgram.cgi?today=%date%&media=FM"
+  },
+  {
+    "id": "160",
+    "name": "スカチャン",
+    "gid": "6",
+    "epg": "http://www.sukachan.com/time/"
+  },
+  {
+    "id": "161",
+    "name": "ディズニーXD",
+    "gid": "6",
+    "epg": "http://www.disneychannel.jp/disneyxd/timetable/"
+  },
+  {
+    "id": "162",
+    "name": "TOKYO FM(80.0)",
+    "gid": "12",
+    "epg": "https://www.tfm.co.jp/timetable/"
+  },
+  {
+    "id": "163",
+    "name": "ディズニー・チャンネル",
+    "gid": "6",
+    "epg": "http://www.disneychannel.jp/disneych/timetable/"
+  },
+  {
+    "id": "164",
+    "name": "Music Japan TV",
+    "gid": "6",
+    "epg": "http://www.mjtv.jp/timetable/"
+  },
+  {
+    "id": "165",
+    "name": "ニコニコチャンネル",
+    "gid": "7",
+    "epg": "http://ch.nicovideo.jp/portal/anime"
+  },
+  {
+    "id": "166",
+    "name": "bayfm(78.0)",
+    "gid": "12",
+    "epg": "http://www.bayfm.co.jp/table/index.html"
+  },
+  {
+    "id": "197",
+    "name": "BSアニマックス",
+    "gid": "2",
+    "epg": "https://www.animax.co.jp/programs/schedule_weekly"
+  },
+  {
+    "id": "174",
+    "name": "スカチャン802",
+    "gid": "6",
+    "epg": "http://www.e2sptv.jp/prog_navi/e802.html"
+  },
+  {
+    "id": "167",
+    "name": "TAKARAZUKA SKY STAGE",
+    "gid": "6",
+    "epg": "http://www.skystage.net/Prgm/Daily/%date%.html"
+  },
+  {
+    "id": "168",
+    "name": "長崎放送",
+    "gid": "19",
+    "epg": "https://www.nbc-nagasaki.co.jp/tv/program/"
+  },
+  {
+    "id": "169",
+    "name": "長崎文化放送",
+    "gid": "19",
+    "epg": "http://www.ncctv.co.jp/timetable/"
+  },
+  {
+    "id": "170",
+    "name": "テレビ長崎",
+    "gid": "19",
+    "epg": "http://www.ktn.co.jp/timetable/"
+  },
+  {
+    "id": "171",
+    "name": "長崎国際テレビ",
+    "gid": "19",
+    "epg": "http://www.nib.jp/program/program.html"
+  },
+  {
+    "id": "172",
+    "name": "テレビ金沢",
+    "gid": "25",
+    "epg": "http://www.tvkanazawa.co.jp/program_table/"
+  },
+  {
+    "id": "252",
+    "name": "みんなのアニメ2",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/everybody-anime2"
+  },
+  {
+    "id": "173",
+    "name": "スカチャンHD801",
+    "gid": "6",
+    "epg": "http://www.e2sptv.jp/prog_navi/e801.html"
+  },
+  {
+    "id": "175",
+    "name": "スカチャンHD192",
+    "gid": "6",
+    "epg": "http://www.skyperfectv.co.jp/search/sky/S7_1/Program.html"
+  },
+  {
+    "id": "176",
+    "name": "旅チャンネル",
+    "gid": "6",
+    "epg": "http://www.tabichan.jp/program/weekly"
+  },
+  {
+    "id": "177",
+    "name": "テレビドガッチ",
+    "gid": "7",
+    "epg": "http://dogatch.jp/"
+  },
+  {
+    "id": "178",
+    "name": "YouTube",
+    "gid": "7",
+    "epg": "http://www.youtube.com"
+  },
+  {
+    "id": "179",
+    "name": "NHK BSプレミアム",
+    "gid": "2",
+    "epg": "http://www2.nhk.or.jp/hensei/program/wk.cgi?tz=all&ch=10"
+  },
+  {
+    "id": "180",
+    "name": "InterFM(76.1)",
+    "gid": "12",
+    "epg": "http://www.interfm.co.jp/timetable/index.php"
+  },
+  {
+    "id": "181",
+    "name": "福井さかいケーブルテレビ",
+    "gid": "25",
+    "epg": "http://www.fctv.jp/community/"
+  },
+  {
+    "id": "182",
+    "name": "USTREAM",
+    "gid": "7",
+    "epg": "http://www.ustream.tv/discovery/live/all?cc=JP"
+  },
+  {
+    "id": "183",
+    "name": "中部日本放送(1053)",
+    "gid": "24",
+    "epg": "http://hicbc.com/radio/fr_jtable.htm"
+  },
+  {
+    "id": "184",
+    "name": "ZIP-FM(77.8)",
+    "gid": "24",
+    "epg": "http://www.zip-fm.co.jp/pro_index/time_table/weekday.asp"
+  },
+  {
+    "id": "185",
+    "name": "レディオキューブFM三重(78.9)",
+    "gid": "24",
+    "epg": "http://www.fmmie.jp/timetable/timetable1.html"
+  },
+  {
+    "id": "186",
+    "name": "FM AICHI(80.7)",
+    "gid": "24",
+    "epg": "http://fma.co.jp/pc/01pro/tt/index_02tue.html"
+  },
+  {
+    "id": "187",
+    "name": "TOKYO MX2",
+    "gid": "1",
+    "epg": "https://s.mxtv.jp/bangumi/"
+  },
+  {
+    "id": "188",
+    "name": "NACK5(79.5)",
+    "gid": "12",
+    "epg": "http://www.nack5.co.jp/timetable.shtml"
+  },
+  {
+    "id": "189",
+    "name": "bayfm78(78.0)",
+    "gid": "12",
+    "epg": "http://www.bayfm.co.jp/table/"
+  },
+  {
+    "id": "190",
+    "name": "FMヨコハマ(84.7)",
+    "gid": "12",
+    "epg": "http://www.fmyokohama.co.jp/today/"
+  },
+  {
+    "id": "191",
+    "name": "ラジオ日本(1422)",
+    "gid": "12",
+    "epg": "http://www.jorf.co.jp/timetable.php"
+  },
+  {
+    "id": "192",
+    "name": "NHKワンセグ2",
+    "gid": "11",
+    "epg": "https://www.nhk.jp/timetable/"
+  },
+  {
+    "id": "193",
+    "name": "バンダイチャンネルライブ！",
+    "gid": "7",
+    "epg": "http://live.b-ch.com/"
+  },
+  {
+    "id": "194",
+    "name": "スペースシャワーTV",
+    "gid": "6",
+    "epg": "http://www.spaceshowertv.com/timetable/"
+  },
+  {
+    "id": "195",
+    "name": "NHKラジオ第二",
+    "gid": "10",
+    "epg": "http://www2.nhk.or.jp/hensei/program/wk.cgi?tz=all&ch=06"
+  },
+  {
+    "id": "196",
+    "name": "BSスカパー！",
+    "gid": "2",
+    "epg": "http://www.bs-sptv.com/time/"
+  },
+  {
+    "id": "205",
+    "name": "東映特撮 YouTube Official",
+    "gid": "7",
+    "epg": "http://www.youtube.com/user/TOEIcojp"
+  },
+  {
+    "id": "198",
+    "name": "青森放送",
+    "gid": "20",
+    "epg": "https://www.rab.co.jp/tv/t-bangumi/"
+  },
+  {
+    "id": "199",
+    "name": "青森朝日放送",
+    "gid": "20",
+    "epg": "http://www.aba-net.com/timetable/"
+  },
+  {
+    "id": "200",
+    "name": "青森テレビ",
+    "gid": "20",
+    "epg": "http://www.atv.jp/timetable/"
+  },
+  {
+    "id": "201",
+    "name": "琉球放送",
+    "gid": "26",
+    "epg": "https://www.rbc.co.jp/tv_programlist/"
+  },
+  {
+    "id": "202",
+    "name": "琉球朝日放送",
+    "gid": "26",
+    "epg": "http://www.qab.co.jp/timetable/"
+  },
+  {
+    "id": "203",
+    "name": "沖縄テレビ",
+    "gid": "26",
+    "epg": "https://www.otv.co.jp/timetable/timetable.shtml"
+  },
+  {
+    "id": "204",
+    "name": "WOWOWプライム",
+    "gid": "2",
+    "epg": "https://www.wowow.co.jp/schedule/"
+  },
+  {
+    "id": "206",
+    "name": "BSN",
+    "gid": "21",
+    "epg": "https://www.ohbsn.com/tv/time-table.php"
+  },
+  {
+    "id": "207",
+    "name": "TeNY",
+    "gid": "21",
+    "epg": "https://www.teny.co.jp/tvtt/"
+  },
+  {
+    "id": "208",
+    "name": "新潟テレビ21",
+    "gid": "21",
+    "epg": "http://www.uxtv.jp/programtable/"
+  },
+  {
+    "id": "209",
+    "name": "NST",
+    "gid": "21",
+    "epg": "https://www.nsttv.com/program/program_week.php"
+  },
+  {
+    "id": "210",
+    "name": "DMM.com",
+    "gid": "7",
+    "epg": "http://www.dmm.com/digital/anime/"
+  },
+  {
+    "id": "211",
+    "name": "スペースシャワーTV プラス",
+    "gid": "6",
+    "epg": "http://www.spaceshowertvplus.com/timetable/disp_timetable.cgi"
+  },
+  {
+    "id": "212",
+    "name": "Dlife",
+    "gid": "2",
+    "epg": "https://dlife.disney.co.jp/timetable/daily.html"
+  },
+  {
+    "id": "213",
+    "name": "日経CNBC",
+    "gid": "6",
+    "epg": "http://www.nikkei-cnbc.co.jp/schedule/timetable.php?today=%date%"
+  },
+  {
+    "id": "214",
+    "name": "スター・チャンネル3",
+    "gid": "2",
+    "epg": "https://www.star-ch.jp/timetable/"
+  },
+  {
+    "id": "215",
+    "name": "TBSチャンネル2",
+    "gid": "6",
+    "epg": "http://www.tbs.co.jp/tbs-ch/schedules/weekly/tch2/"
+  },
+  {
+    "id": "216",
+    "name": "スーパー！ドラマTV",
+    "gid": "6",
+    "epg": "http://www.superdramatv.com/program/"
+  },
+  {
+    "id": "217",
+    "name": "スター・チャンネル1",
+    "gid": "2",
+    "epg": "https://www.star-ch.jp/timetable/"
+  },
+  {
+    "id": "218",
+    "name": "ラジオNIKKEI第1",
+    "gid": "10",
+    "epg": "http://www.radionikkei.jp/timetable/sw1/"
+  },
+  {
+    "id": "219",
+    "name": "スター・チャンネル2",
+    "gid": "2",
+    "epg": "https://www.star-ch.jp/timetable/"
+  },
+  {
+    "id": "220",
+    "name": "衛星劇場",
+    "gid": "6",
+    "epg": "http://www.eigeki.com/lineup?action=daily"
+  },
+  {
+    "id": "221",
+    "name": "時代劇専門チャンネル",
+    "gid": "6",
+    "epg": "http://www.jidaigeki.com/timetable/daily/index.html"
+  },
+  {
+    "id": "222",
+    "name": "歌謡ポップスチャンネル",
+    "gid": "6",
+    "epg": "http://www.kayopops.jp/timetable/"
+  },
+  {
+    "id": "223",
+    "name": "リスラジ",
+    "gid": "7",
+    "epg": "http://listenradio.jp/"
+  },
+  {
+    "id": "224",
+    "name": "テレ朝チャンネル1",
+    "gid": "6",
+    "epg": "https://www.tv-asahi.co.jp/dap/bangumi/ch/bangumi/jump/jump_pc.php?ch=1"
+  },
+  {
+    "id": "225",
+    "name": "新作TVアニメ",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/new-anime"
+  },
+  {
+    "id": "226",
+    "name": "アニメ24",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/anime24"
+  },
+  {
+    "id": "227",
+    "name": "深夜アニメ",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/late-night-anime"
+  },
+  {
+    "id": "228",
+    "name": "なつかしアニメ",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/oldtime-anime"
+  },
+  {
+    "id": "229",
+    "name": "ラブコメアニメ",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/lovecomedy-anime"
+  },
+  {
+    "id": "230",
+    "name": "FRESH LIVE",
+    "gid": "7",
+    "epg": "https://freshlive.tv/programs/upcoming"
+  },
+  {
+    "id": "231",
+    "name": "仙台放送",
+    "gid": "20",
+    "epg": "https://www.ox-tv.co.jp/timetable/tt_week/"
+  },
+  {
+    "id": "232",
+    "name": "ミヤギテレビ",
+    "gid": "20",
+    "epg": "https://www.mmt-tv.co.jp/program_table/"
+  },
+  {
+    "id": "233",
+    "name": "ラジオNIKKEI第2",
+    "gid": "10",
+    "epg": "http://www.radionikkei.jp/timetable/sw2/"
+  },
+  {
+    "id": "234",
+    "name": "dアニメストア",
+    "gid": "7",
+    "epg": "https://anime.dmkt-sp.jp/animestore/CF/search_index"
+  },
+  {
+    "id": "235",
+    "name": "MTV",
+    "gid": "6",
+    "epg": "http://www.mtvjapan.com/onair/timetable"
+  },
+  {
+    "id": "236",
+    "name": "長野放送",
+    "gid": "21",
+    "epg": "https://www.nbs-tv.co.jp/program/program.php?tab=1"
+  },
+  {
+    "id": "237",
+    "name": "長野朝日放送",
+    "gid": "21",
+    "epg": "http://www.abn-tv.co.jp/programtable/"
+  },
+  {
+    "id": "238",
+    "name": "ウルトラゲームス",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/ultra-games"
+  },
+  {
+    "id": "239",
+    "name": "Abemaアニメ",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/abema-anime"
+  },
+  {
+    "id": "240",
+    "name": "アニメLIVE",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/anime-live"
+  },
+  {
+    "id": "241",
+    "name": "みんなのアニメ",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/everybody-anime"
+  },
+  {
+    "id": "242",
+    "name": "日本海テレビ",
+    "gid": "14",
+    "epg": "https://www.nkt-tv.co.jp/program/"
+  },
+  {
+    "id": "243",
+    "name": "テレ朝チャンネル2",
+    "gid": "6",
+    "epg": "https://www.tv-asahi.co.jp/dap/bangumi/ch/bangumi/jump/jump_pc.php?ch=2"
+  },
+  {
+    "id": "244",
+    "name": "Abemaアニメ2",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/abema-anime-2"
+  },
+  {
+    "id": "245",
+    "name": "J:COMテレビ",
+    "gid": "11",
+    "epg": "https://tv.myjcom.jp/index.action"
+  },
+  {
+    "id": "246",
+    "name": "AG-ON Premium",
+    "gid": "7",
+    "epg": "http://agonp.jp/"
+  },
+  {
+    "id": "247",
+    "name": "アニメLIVE2",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/anime-live2"
+  },
+  {
+    "id": "248",
+    "name": "Amazon Prime Video",
+    "gid": "7",
+    "epg": "https://www.amazon.co.jp/b?node=3535604051"
+  },
+  {
+    "id": "249",
+    "name": "Abemaアニメ3",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/abema-anime-3"
+  },
+  {
+    "id": "250",
+    "name": "Abemaビデオ",
+    "gid": "23",
+    "epg": "https://abema.tv/video/genre/animation"
+  },
+  {
+    "id": "251",
+    "name": "WOWOWプラス",
+    "gid": "6",
+    "epg": "https://www.wowowplus.jp/timetable/"
+  },
+  {
+    "id": "267",
+    "name": "NHKワールドJAPAN",
+    "gid": "7",
+    "epg": "https://www3.nhk.or.jp/nhkworld/en/tv/"
+  },
+  {
+    "id": "253",
+    "name": "信越放送",
+    "gid": "21",
+    "epg": "https://sbc21.co.jp/tv/schedule.php"
+  },
+  {
+    "id": "254",
+    "name": "AXN",
+    "gid": "6",
+    "epg": "https://www.axn.co.jp/schedule"
+  },
+  {
+    "id": "255",
+    "name": "東日本放送",
+    "gid": "20",
+    "epg": "https://www.khb-tv.co.jp/050/index.html"
+  },
+  {
+    "id": "256",
+    "name": "Netflix",
+    "gid": "7",
+    "epg": "https://www.netflix.com/jp/browse/genre/83"
+  },
+  {
+    "id": "257",
+    "name": "Hulu",
+    "gid": "7",
+    "epg": "https://www.hulu.jp/display/Anime"
+  },
+  {
+    "id": "258",
+    "name": "J SPORTS 1",
+    "gid": "2",
+    "epg": "https://www.jsports.co.jp/program_guide/month/japanese/"
+  },
+  {
+    "id": "259",
+    "name": "J SPORTS 2",
+    "gid": "2",
+    "epg": "https://www.jsports.co.jp/program_guide/month/japanese/"
+  },
+  {
+    "id": "260",
+    "name": "J SPORTS 3",
+    "gid": "2",
+    "epg": "https://www.jsports.co.jp/program_guide/month/japanese/"
+  },
+  {
+    "id": "261",
+    "name": "J SPORTS 4",
+    "gid": "2",
+    "epg": "https://www.jsports.co.jp/program_guide/month/japanese/"
+  },
+  {
+    "id": "262",
+    "name": "スカイA",
+    "gid": "6",
+    "epg": "https://www.sky-a.co.jp/timetable/"
+  },
+  {
+    "id": "263",
+    "name": "日テレNEWS24",
+    "gid": "6",
+    "epg": "https://www.news24.jp/news24/prog.html"
+  },
+  {
+    "id": "264",
+    "name": "スポーツライブ＋",
+    "gid": "6",
+    "epg": "https://www.sportslive-plus.com/time/"
+  },
+  {
+    "id": "265",
+    "name": "GAORA",
+    "gid": "6",
+    "epg": "https://www.gaora.co.jp/program/"
+  },
+  {
+    "id": "266",
+    "name": "日テレジータス",
+    "gid": "6",
+    "epg": "https://www.gtasu.com/weeklyprogram/index.html"
+  },
+  {
+    "id": "268",
+    "name": "FOD",
+    "gid": "7",
+    "epg": "https://fod.fujitv.co.jp/genre/anime"
+  },
+  {
+    "id": "269",
+    "name": "TVer",
+    "gid": "7",
+    "epg": "https://tver.jp/anime"
+  },
+  {
+    "id": "270",
+    "name": "みんなのアニメ3",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/everybody-anime3"
+  },
+  {
+    "id": "271",
+    "name": "BS松竹東急",
+    "gid": "2",
+    "epg": "https://www.shochiku-tokyu.co.jp/timetable/"
+  },
+  {
+    "id": "272",
+    "name": "BSよしもと",
+    "gid": "2",
+    "epg": "https://bsy.co.jp/timetable"
+  },
+  {
+    "id": "273",
+    "name": "BSJapanext",
+    "gid": "2",
+    "epg": "https://www.bsjapanext.co.jp/schedule/"
+  },
+  {
+    "id": "274",
+    "name": "Disney+",
+    "gid": "7",
+    "epg": "https://www.disneyplus.com/ja-jp/"
+  },
+  {
+    "id": "275",
+    "name": "さんいん中央テレビ",
+    "gid": "14",
+    "epg": "https://tsk-tv.com/timetable/"
+  },
+  {
+    "id": "276",
+    "name": "アニメLIVE3",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/anime-live3"
+  },
+  {
+    "id": "277",
+    "name": "なつかしアニメ90's",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/90s-anime-1"
+  },
+  {
+    "id": "278",
+    "name": "なつかしアニメ00's",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/00s-anime-1"
+  },
+  {
+    "id": "279",
+    "name": "なつかしアニメ80's",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/80s-anime-1"
+  },
+  {
+    "id": "280",
+    "name": "日常青春アニメ",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/dailylife-anime"
+  },
+  {
+    "id": "281",
+    "name": "ABEMA特設その他",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable"
+  },
+  {
+    "id": "282",
+    "name": "異世界ファンタジー",
+    "gid": "23",
+    "epg": "https://abema.tv/timetable/channels/isekai-anime"
+  },
+  {
+    "id": "283",
+    "name": "NHK BSプレミアム4K",
+    "gid": "28",
+    "epg": "https://www.nhk.jp/timetable/"
+  },
+  {
+    "id": "284",
+    "name": "NHK BS8K",
+    "gid": "28",
+    "epg": "https://www.nhk.jp/timetable/"
+  },
+  {
+    "id": "285",
+    "name": "BS10",
+    "gid": "2",
+    "epg": "https://www.bs10.jp/schedule/"
+  },
+  {
+    "id": "286",
+    "name": "BS10スターチャンネル",
+    "gid": "2",
+    "epg": "https://www.bs10.jp/star/timetable/"
+  },
+  {
+    "id": "287",
+    "name": "J:COM BS",
+    "gid": "2",
+    "epg": "https://www.shochiku-tokyu.co.jp/timetable/"
+  },
+  {
+    "id": "288",
+    "name": "BSフジ・182",
+    "gid": "2",
+    "epg": "https://www.bsfuji.tv/top/timetable/weekly.html"
+  }
+]

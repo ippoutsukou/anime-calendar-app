@@ -1,0 +1,8 @@
+{
+  "name": "アニメ番組ナビ - しょぼいカレンダー＆声優検索",
+  "description": "しょぼいカレンダーAPIを活用し、地域別の地上波・BSアニメ放送スケジュール一覧表示と声優名でのリアルタイム絞り込み検索ができるモダンアニメダッシュボード。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
